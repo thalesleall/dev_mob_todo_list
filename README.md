@@ -1,19 +1,60 @@
-# lista_de_tarefas
+# ✅ Lista de Tarefas - Uni-FACEF | Desenvolvimento Mobile I
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Aplicativo de Lista de Tarefas desenvolvido em Flutter como parte da avaliação do 2º Bimestre da disciplina **Desenvolvimento de Software para Dispositivos Móveis I**, no curso de Engenharia de Software do Uni-FACEF.
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Adição de novas tarefas
+- Marcação e desmarcação de tarefas como concluídas
+- Remoção de tarefas da lista
+- Interface simples, responsiva e de fácil usabilidade
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como Executar o Projeto
 
-## Getting Started: FlutLab - Flutter Online IDE
+### Pré-requisitos
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- [Git](https://git-scm.com)
+- [Flutter SDK](https://flutter.dev) (versão 3.x ou superior)
+
+### Passos para execução
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+
+# Acesse o diretório do projeto
+cd SEU-REPOSITORIO
+
+# Instale as dependências
+flutter pub get
+
+# Execute o aplicativo
+flutter run
+```
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter**
+- **Dart**
+
+## 🎥 Vídeo de Demonstração
+
+A funcionalidade do aplicativo pode ser visualizada no vídeo abaixo:
+
+![Video funcional](tela-app.gif)
+
+## 🌐 Versão Web
+
+A aplicação também está disponível para testes diretamente no navegador:
+
+[🔗 Acesse a versão Web](https://preview.flutlab.io/thales_leal/listadetarefas/)
+
+---
+
+## 📌 Informações Complementares
+
+Este projeto foi desenvolvido por **[Thales Vinícius Leal Barcelos - 24740]** como parte das atividades acadêmicas do curso de Engenharia de Software.
+
+---
+
